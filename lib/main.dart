@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // ignore: prefer_const_constructors
     return MaterialApp(
-      title: 'Personal Expenses',
+      title: 'Personal Expenses App',
       home: const MyHomePage(),
     );
   }
